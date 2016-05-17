@@ -1,2 +1,2 @@
 # testscripts
-Test scripts for C#.
+Test scripts for Kzoo Studios.
